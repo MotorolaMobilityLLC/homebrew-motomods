@@ -1,1 +1,6 @@
-Support for building MotoMods on OS X
+homebrew-motomods
+=================
+
+MotoMods-related Homebrew formula for developers using OS X
+
+Contact: mdk-help@motorola.com
